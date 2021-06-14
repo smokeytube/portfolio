@@ -9,7 +9,7 @@
     <a href="index.php">Homepage</a>
 	<div class="center">
 		<div class="centerpopout">
-			<h1>What I learned</h1>
+			<h1>What I learned in the Web Design Unit</h1>
 
             <p>In the webdesign unit I learned various HTML tags, like h1-h6, a, p, img, and others.
             I learned how to use wireframes to scope out websites I want to build.

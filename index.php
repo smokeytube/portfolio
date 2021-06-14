@@ -34,11 +34,16 @@
       </section>
 
       <section class="light">
-        <h2>Placeholder</h2>
+        <h2>App development</h2>
 
         <p>
-          Add more things you learned later..
+          I have been learning app development at Forsyth Virtual Academy for 1 hour and 18 minutes
         </p>
+
+        <p>
+          Read more <a href="appdevelopment.php">here</a>
+        </p>
+
 
       </section>
 

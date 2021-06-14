@@ -46,7 +46,7 @@ scene.add(zachsax);
 zachsax.position.z = -5;
 zachsax.position.x = 2;
 
-// Graph Plane
+// Planes
 
 const htmlTexture = new THREE.TextureLoader().load('assets/images/html5.png');
 
@@ -59,6 +59,19 @@ htmlplane.position.z = -7;
 htmlplane.position.x = -7;
 htmlplane.position.y = 9;
 htmlplane.rotation.y = 20;
+
+const jsTexture = new THREE.TextureLoader().load('assets/images/js5.png');
+
+const jsplane = new THREE.Mesh(new THREE.PlaneGeometry( 5, 5, 5 ), 
+                             new THREE.MeshBasicMaterial( { map: jsTexture, side: THREE.DoubleSide } ));
+
+scene.add( jsplane );
+
+jsplane.position.z = 3;
+jsplane.position.x = -10;
+jsplane.position.y = 15;
+jsplane.rotation.y = 1.6;
+
 
 // Scroll Animation
 
