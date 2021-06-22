@@ -27,10 +27,6 @@
           I have been learning web design at Forsyth Virtual Academy for a week.
         </p>
 
-        <p>
-          Read more <a href="webdesign.php">here</a>
-        </p>
-
       </section>
 
       <section class="light">
@@ -39,11 +35,6 @@
         <p>
           I have been learning app development at Forsyth Virtual Academy for 1 hour and 18 minutes
         </p>
-
-        <p>
-          Read more <a href="appdevelopment.php">here</a>
-        </p>
-
 
       </section>
 
